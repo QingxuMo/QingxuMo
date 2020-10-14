@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Here is Pinned Repo
+[![Aria2-Termux](https://github-readme-stats.vercel.app/api/pin/?username=QingxuMo&repo=Aria2-Termux)](https://github.com/QingxuMo/Aria2-Termux)
+
+### Here is a project still in development
+[![Tovow](https://github-readme-stats.vercel.app/api/pin/?username=QingxuMo&repo=Tovow)](https://github.com/QingxuMo/Tovow)
+
+## &#x1f4c8; GitHub Status
+
+<a href="https://github.com/QingxuMo/QingxuMo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QingxuMo&hide=html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/QingxuMo/QingxuMo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=QingxuMo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Qingxu's GitHub Status" />
+</a>
+
+- 🔭 I’m currently working on Android
+- 🌱 I’m currently learning Shell/JavaScript/Python
+- 📫 How to reach me: [qingxu@qingxu.live](mailto:qingxu@qingxu.live)
+- 🖋️ My blog: https://qingxu.live/
