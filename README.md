@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Aria2-Termux](https://github-readme-stats.vercel.app/api/pin/?username=QingxuMo&repo=Aria2-Termux)](https://github.com/QingxuMo/Aria2-Termux)
 
 ### Here is a project still in development
-[![Tovow](https://github-readme-stats.vercel.app/api/pin/?username=QingxuMo&repo=Tovow)](https://github.com/QingxuMo/Tovow)
+[![Tovow](https://github-readme-stats.vercel.app/api/pin/?username=QingxuMo&repo=Tiviw)](https://github.com/QingxuMo/Tiviw)
 
 ## GitHub Status
 
