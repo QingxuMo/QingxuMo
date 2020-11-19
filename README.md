@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning Shell/JavaScript/Python
 - 📫 How to reach me: [qingxu@qingxu.live](mailto:qingxu@qingxu.live)
-- 🖋️ My blog: https://qingxu.live/
+- 🖋️ My blog: https://blog.qingxu.live/
